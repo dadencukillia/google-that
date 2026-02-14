@@ -1,3 +1,5 @@
+"use client";
+
 export function Footer() {
   return (
     <div className="flex flex-col text-[15px]">
